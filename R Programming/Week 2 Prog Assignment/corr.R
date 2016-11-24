@@ -11,6 +11,3 @@ corr <- function(directory, threshold = 0){
         }
         values
 }
-
-cr <- corr("specdata", 150)
-head(cr)
